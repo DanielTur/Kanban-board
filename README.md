@@ -3,4 +3,4 @@
 Simple  task manger - using OOP in Js
 
 To do:
-- [] Finish styling in top notch manner
+- [ ] Finish styling in top notch manner
